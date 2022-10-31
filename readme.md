@@ -5,7 +5,7 @@ This is VPA paper reading list
 ## VPA
 
 ### New
-* [ASE: VITAS: Guided Model-based VUI Testing of VPA Apps]()
+* [ASE: VITAS: Guided Model-based VUI Testing of VPA Apps (Unavailable)]()
 * [ASE: Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps](https://baigd.github.io/files/ASE22-Skipper.pdf)
 * [RAID: Understanding the Behavior Transparency of Voice Assistant Applications Using the ChatterBox Framework](https://dl.acm.org/doi/pdf/10.1145/3545948.3545970)
 * [PETS： Effects of Privacy Permissions on User Choices in Voice Assistant App Stores](https://petsymposium.org/popets/2022/popets-2022-0116.pdf)
@@ -69,11 +69,9 @@ This is VPA paper reading list
 
 * [WPES 2022: Is Your Policy Compliant? A Deep Learning-based Empirical Study of Privacy Policies’ Compliance with GDPR](https://www.researchgate.net/profile/Tamjid-Al-Rahat-2/publication/364333263_Is_Your_Policy_Compliant_A_Deep_Learning-based_Empirical_Study_of_Privacy_Policies'_Compliance_with_GDPR/links/634a1fc02752e45ef6b91f71/Is-Your-Policy-Compliant-A-Deep-Learning-based-Empirical-Study-of-Privacy-Policies-Compliance-with-GDPR.pdf)
 * [CCS 2022: Freely Given Consent? Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps](https://publications.cispa.saarland/3754/2/221015_GDPR_Consent_CCS22.pdf)
-
 * [Usenix 2022: Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage](https://www.usenix.org/system/files/sec22-manandhar.pdf)
 * [Usenix 2022: OVR SEEN : Auditing Network Traffic and Privacy Policies in Oculus VR](https://www.usenix.org/system/files/sec22-trimananda.pdf)
-
-
+* [WWW 2021: Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13](https://dl.acm.org/doi/pdf/10.1145/3442381.3450022)
 
 
 ## Android
@@ -96,14 +94,11 @@ This is VPA paper reading list
 * [NDSS 2020: SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves](https://par.nsf.gov/servlets/purl/10186166)
 * [NDSS 2020: Metamorph: Injecting Inaudible Commands into Over-the-air Voice Controlled Systems](https://par.nsf.gov/servlets/purl/10212193)
 * [NDSS 2019: Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications](https://par.nsf.gov/servlets/purl/10104003)
-
 * [CCS 2017: DolphinAttack: Inaudible Voice Commands](https://dl.acm.org/doi/pdf/10.1145/3133956.3134052)
 
 ## Others
 
 * [Okland 2023: Detection of Inconsistencies in Privacy Practices of Browser Extensions](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600a037.pdf?Expires=1667229174&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjMvOTMzNi8wMC85MzM2MDBhMDM3LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzIyOTE3NH19fV19&Signature=k4iiPMZ~ZmaBqrTrvg2cz0-wOyIfrruVH5tMPMy~YCtV-t0Jzdt8wLTaKPJOcYv1AXPrVdalRTuwFBweR3aCibK5jX7MclLcDtPoQfmPncR3rN433wHHAdKAxVEq2~fZlcsVHm6SUzCNmXUQ~o8goD~~5VUIlkJQfZonZtfkQtqyWhkzKR7aox08Vvxm4I178fZbCSEkJk-YWD0oBTIoyBoWRqklpuIBAGplP54UhTKl5arUzxr1VMQTkPtAcCuYWbEulyuzJSwb-bu2au-lm7O9ajNYBGdO-U-FQTOmGYPCvILd3X~aTVNyb-Lf4nwuZi1v88ePbLiXEgsYh00Rnw__&Key-Pair-Id=K12PMWTCQBDMDT)
-* [SIGMETRICS 2023: Characterizing Cryptocurrency-themed Malicious Browser Extensions]()
+* [SIGMETRICS 2023: Characterizing Cryptocurrency-themed Malicious Browser Extensions (Unavailable)]()
 * [ASE 2022: Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions](https://baigd.github.io/files/ASE22-PPCompliance.pdf)
 * [IMC 2022: Exploring the Security and Privacy Risks of Chatbots in Messaging Services](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1619/2022imc-chatbot.pdf?sequence=1)
-* [ASE 2022: Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions](https://baigd.github.io/files/ASE22-PPCompliance.pdf)
-

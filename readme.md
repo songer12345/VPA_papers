@@ -59,8 +59,6 @@ This is VPA paper reading list
 * [Usenix: Skill Squatting Attacks on Amazon Alexas](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kumar.pdf)
 
 
-
-
 ### 2017
 * [PETS: Privacy in the Amazon Alexa Skills Ecosystem](https://www.petsymposium.org/2017/papers/hotpets/amazon-alexa-skills-ecosystem-privacy.pdf)
 
@@ -70,11 +68,11 @@ This is VPA paper reading list
 * [WPES 2022: Is Your Policy Compliant? A Deep Learning-based Empirical Study of Privacy Policies’ Compliance with GDPR](https://www.researchgate.net/profile/Tamjid-Al-Rahat-2/publication/364333263_Is_Your_Policy_Compliant_A_Deep_Learning-based_Empirical_Study_of_Privacy_Policies'_Compliance_with_GDPR/links/634a1fc02752e45ef6b91f71/Is-Your-Policy-Compliant-A-Deep-Learning-based-Empirical-Study-of-Privacy-Policies-Compliance-with-GDPR.pdf)
 * [CCS 2022: Freely Given Consent? Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps](https://publications.cispa.saarland/3754/2/221015_GDPR_Consent_CCS22.pdf)
 * [Usenix 2022: Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage](https://www.usenix.org/system/files/sec22-manandhar.pdf)
-* [Usenix 2022: OVR SEEN : Auditing Network Traffic and Privacy Policies in Oculus VR](https://www.usenix.org/system/files/sec22-trimananda.pdf)
+* [Usenix 2022: OVRSEEN: Auditing Network Traffic and Privacy Policies in Oculus VR](https://www.usenix.org/system/files/sec22-trimananda.pdf)
 * [WWW 2021: Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13](https://dl.acm.org/doi/pdf/10.1145/3442381.3450022)
 
 
-## Android
+## Android-relevant
 * [TSE 2022: Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9782551)
 * [WWW 2021: Demystifying Illegal Mobile Gambling Apps](https://dl.acm.org/doi/pdf/10.1145/3442381.3449932)
 * [WWW 2021: A Longitudinal Study of Removed Apps in iOS App Store](https://dl.acm.org/doi/pdf/10.1145/3442381.3449990)

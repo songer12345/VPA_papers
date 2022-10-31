@@ -1,5 +1,5 @@
 # Voice Personal Assistant (VPA) papers
-This is VPA paper reading list
+This is VPA paper reading list.
 
 
 ## VPA

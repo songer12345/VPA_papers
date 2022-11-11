@@ -5,10 +5,13 @@ This is VPA paper reading list.
 ## VPA
 
 ### New
+* [Usenix: POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/system/files/sec23summer_19-zhou_lu-prepub.pdf)
+* [Usenix: Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices](https://www.usenix.org/system/files/sec23summer_454-vetrivel-prepub.pdf)
+* [A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
 * [ASE: VITAS: Guided Model-based VUI Testing of VPA Apps (Unavailable)]()
 * [ASE: Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps](https://baigd.github.io/files/ASE22-Skipper.pdf)
 * [RAID: Understanding the Behavior Transparency of Voice Assistant Applications Using the ChatterBox Framework](https://dl.acm.org/doi/pdf/10.1145/3545948.3545970)
-* [PETS： Effects of Privacy Permissions on User Choices in Voice Assistant App Stores](https://petsymposium.org/popets/2022/popets-2022-0116.pdf)
+
 
 ### 2022
 
@@ -18,12 +21,13 @@ This is VPA paper reading list.
 * [CHI: Hey Alexa, Who Am I Talking to?: Analyzing Users’ Perception and Awareness Regarding Third-party Alexa Skills](https://dl.acm.org/doi/pdf/10.1145/3491102.3517510)
 * [CSCW: Tangible Privacy for Smart Voice Assistants: Bystanders’ Perceptions of Physical Device Controls](https://homes.luddy.indiana.edu/kapadia/papers/ahmad-tangible-cscw22-preprint.pdf)
 * [CSUR: A Survey on Voice Assistant Security: Atacks and Countermeasures](https://dl.acm.org/doi/pdf/10.1145/3527153)
+* [PETS： Effects of Privacy Permissions on User Choices in Voice Assistant App Stores](https://petsymposium.org/popets/2022/popets-2022-0116.pdf)
 * [Proceedings of IEEE: Personal Voice Assistant Security and Privacy—A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733178)
+* [SOUPS: Runtime Permissions for Privacy in Proactive Intelligent Assistants](https://www.usenix.org/system/files/soups2022-malkin.pdf)
+* [TOIT: SkillBot: Identifying Risky Content for Children in Alexa Skills](https://dl.acm.org/doi/pdf/10.1145/3539609)
 * [Usenix: SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild](https://www.usenix.org/system/files/sec22summer_young.pdf)
 * [Usenix: Towards More Robust Keyword Spotting for Voice Assistants](https://www.usenix.org/system/files/sec22summer_ahmed.pdf)
 * [Usenix: Understanding and Improving Usability of Data Dashboards for Simplified Privacy Control of Voice Assistant Data](https://www.usenix.org/system/files/sec22-sharma-vandit.pdf)
-* [SOUPS: Runtime Permissions for Privacy in Proactive Intelligent Assistants](https://www.usenix.org/system/files/soups2022-malkin.pdf)
-* [TOIT: SkillBot: Identifying Risky Content for Children in Alexa Skills](https://dl.acm.org/doi/pdf/10.1145/3539609)
 * [Ubicomp: SkillFence: A Systems Approach to Practically Mitigating Voice-Based Confusion Attacks](https://dl.acm.org/doi/pdf/10.1145/3517232)
 * [WiSec: BiasHacker: Voice Command Disruption by Exploiting Speaker Biases in Automatic Speech Recognition](https://dl.acm.org/doi/pdf/10.1145/3507657.3528558)
 * [WWW: Alexa, in you, I trust! Fairness and Interpretability Issues in E-commerce Search through Smart Speakers](https://dl.acm.org/doi/pdf/10.1145/3485447.3512265)

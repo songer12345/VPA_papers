@@ -68,13 +68,18 @@ This is VPA paper reading list.
 * [PETS: Privacy in the Amazon Alexa Skills Ecosystem](https://www.petsymposium.org/2017/papers/hotpets/amazon-alexa-skills-ecosystem-privacy.pdf)
 
 
-## Privacy
+## Privacy 
+
+### GDPR 
 
 * [WPES 2022: Is Your Policy Compliant? A Deep Learning-based Empirical Study of Privacy Policies’ Compliance with GDPR](https://www.researchgate.net/profile/Tamjid-Al-Rahat-2/publication/364333263_Is_Your_Policy_Compliant_A_Deep_Learning-based_Empirical_Study_of_Privacy_Policies'_Compliance_with_GDPR/links/634a1fc02752e45ef6b91f71/Is-Your-Policy-Compliant-A-Deep-Learning-based-Empirical-Study-of-Privacy-Policies-Compliance-with-GDPR.pdf)
 * [CCS 2022: Freely Given Consent? Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps](https://publications.cispa.saarland/3754/2/221015_GDPR_Consent_CCS22.pdf)
+* [WWW 2021: Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13](https://dl.acm.org/doi/pdf/10.1145/3442381.3450022)
+* [Share First, Ask Later (or Never?) Studying Violations of GDPR’s Explicit Consent in Android Apps](https://www.usenix.org/system/files/sec21-nguyen.pdf)
+
+### privacy policy
 * [Usenix 2022: Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage](https://www.usenix.org/system/files/sec22-manandhar.pdf)
 * [Usenix 2022: OVRSEEN: Auditing Network Traffic and Privacy Policies in Oculus VR](https://www.usenix.org/system/files/sec22-trimananda.pdf)
-* [WWW 2021: Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13](https://dl.acm.org/doi/pdf/10.1145/3442381.3450022)
 
 
 ## Android-relevant

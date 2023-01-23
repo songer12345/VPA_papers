@@ -5,24 +5,28 @@ This is VPA paper reading list.
 ## VPA
 
 ### New
+* [CHI_2023: Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants](https://arxiv.org/pdf/2301.08091.pdf)
+* [Arxiv: Addressing the Selection Bias in Voice Assistance: Training Voice Assistance Model in Python with Equal Data Selection](https://arxiv.org/pdf/2301.00646.pdf)
+* [Arxiv: “Tell me, how do you know it’s me?” Expectations of security and personalization measures for smart speaker applications](https://arxiv.org/pdf/2212.01905.pdf)
 * [CSCW 2023: Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants](https://arxiv.org/pdf/2211.12900.pdf)
 * [Usenix 2023: POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/system/files/sec23summer_19-zhou_lu-prepub.pdf)
 * [Usenix 2023: Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices](https://www.usenix.org/system/files/sec23summer_454-vetrivel-prepub.pdf)
 * [NDSS 2023: CHKPLUG: Checking GDPR Compliance of WordPress Plugins via Cross-language Code Property Graph (Unavailable)]()
-* [A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
-* [ASE 2022: VITAS: Guided Model-based VUI Testing of VPA Apps (Unavailable)]()
-* [ASE 2022: Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps](https://baigd.github.io/files/ASE22-Skipper.pdf)
-* [RAID 2022: Understanding the Behavior Transparency of Voice Assistant Applications Using the ChatterBox Framework](https://dl.acm.org/doi/pdf/10.1145/3545948.3545970)
+* [Arxiv: A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
+
 
 
 ### 2022
 
 * [AISE: A Model for Governing Information Sharing in Smart Assistants](https://dl.acm.org/doi/pdf/10.1145/3514094.3534129)
 * [ASIACCS: Alexa versus Alexa: Controlling Smart Speakers by Self-Issuing Voice Commands](https://dl.acm.org/doi/pdf/10.1145/3488932.3497766)
+* [ASE 2022: VITAS: Guided Model-based VUI Testing of VPA Apps (Unavailable)]()
+* [ASE 2022: Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps](https://baigd.github.io/files/ASE22-Skipper.pdf)
 * [Arxiv: Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf)
 * [CHI: Hey Alexa, Who Am I Talking to?: Analyzing Users’ Perception and Awareness Regarding Third-party Alexa Skills](https://dl.acm.org/doi/pdf/10.1145/3491102.3517510)
 * [CSCW: Tangible Privacy for Smart Voice Assistants: Bystanders’ Perceptions of Physical Device Controls](https://homes.luddy.indiana.edu/kapadia/papers/ahmad-tangible-cscw22-preprint.pdf)
 * [CSUR: A Survey on Voice Assistant Security: Atacks and Countermeasures](https://dl.acm.org/doi/pdf/10.1145/3527153)
+* [RAID 2022: Understanding the Behavior Transparency of Voice Assistant Applications Using the ChatterBox Framework](https://dl.acm.org/doi/pdf/10.1145/3545948.3545970)
 * [PETS： Effects of Privacy Permissions on User Choices in Voice Assistant App Stores](https://petsymposium.org/popets/2022/popets-2022-0116.pdf)
 * [Proceedings of IEEE: Personal Voice Assistant Security and Privacy—A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733178)
 * [SOUPS: Runtime Permissions for Privacy in Proactive Intelligent Assistants](https://www.usenix.org/system/files/soups2022-malkin.pdf)

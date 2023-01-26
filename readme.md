@@ -20,7 +20,7 @@ This is VPA paper reading list.
 
 * [AISE: A Model for Governing Information Sharing in Smart Assistants](https://dl.acm.org/doi/pdf/10.1145/3514094.3534129)
 * [ASIACCS: Alexa versus Alexa: Controlling Smart Speakers by Self-Issuing Voice Commands](https://dl.acm.org/doi/pdf/10.1145/3488932.3497766)
-* [ASE 2022: VITAS: Guided Model-based VUI Testing of VPA Apps (Unavailable)]()
+* [ASE 2022: VITAS: Guided Model-based VUI Testing of VPA Apps](https://dl.acm.org/doi/pdf/10.1145/3551349.3556957)
 * [ASE 2022: Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps](https://baigd.github.io/files/ASE22-Skipper.pdf)
 * [Arxiv: Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf)
 * [CHI: Hey Alexa, Who Am I Talking to?: Analyzing Users’ Perception and Awareness Regarding Third-party Alexa Skills](https://dl.acm.org/doi/pdf/10.1145/3491102.3517510)
@@ -77,7 +77,7 @@ This is VPA paper reading list.
 
 ### GDPR 
 
-* [WPES 2022: Is Your Policy Compliant? A Deep Learning-based Empirical Study of Privacy Policies’ Compliance with GDPR](https://www.researchgate.net/profile/Tamjid-Al-Rahat-2/publication/364333263_Is_Your_Policy_Compliant_A_Deep_Learning-based_Empirical_Study_of_Privacy_Policies'_Compliance_with_GDPR/links/634a1fc02752e45ef6b91f71/Is-Your-Policy-Compliant-A-Deep-Learning-based-Empirical-Study-of-Privacy-Policies-Compliance-with-GDPR.pdf)
+* [WPES 2022: Is Your Policy Compliant? A Deep Learning-based Empirical Study of Privacy Policies’ Compliance with GDPR](https://dl.acm.org/doi/pdf/10.1145/3559613.3563195)
 * [ASE 2022: Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions](https://baigd.github.io/files/ASE22-PPCompliance.pdf)
 * [CCS 2022: Freely Given Consent? Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps](https://publications.cispa.saarland/3754/2/221015_GDPR_Consent_CCS22.pdf)
 * [WWW 2021: Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13](https://dl.acm.org/doi/pdf/10.1145/3442381.3450022)
@@ -112,6 +112,6 @@ This is VPA paper reading list.
 
 ## Others
 
-* [Okland 2023: Detection of Inconsistencies in Privacy Practices of Browser Extensions](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600a037.pdf?Expires=1667229174&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjMvOTMzNi8wMC85MzM2MDBhMDM3LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzIyOTE3NH19fV19&Signature=k4iiPMZ~ZmaBqrTrvg2cz0-wOyIfrruVH5tMPMy~YCtV-t0Jzdt8wLTaKPJOcYv1AXPrVdalRTuwFBweR3aCibK5jX7MclLcDtPoQfmPncR3rN433wHHAdKAxVEq2~fZlcsVHm6SUzCNmXUQ~o8goD~~5VUIlkJQfZonZtfkQtqyWhkzKR7aox08Vvxm4I178fZbCSEkJk-YWD0oBTIoyBoWRqklpuIBAGplP54UhTKl5arUzxr1VMQTkPtAcCuYWbEulyuzJSwb-bu2au-lm7O9ajNYBGdO-U-FQTOmGYPCvILd3X~aTVNyb-Lf4nwuZi1v88ePbLiXEgsYh00Rnw__&Key-Pair-Id=K12PMWTCQBDMDT)
-* [SIGMETRICS 2023: Characterizing Cryptocurrency-themed Malicious Browser Extensions (Unavailable)]()
-* [IMC 2022: Exploring the Security and Privacy Risks of Chatbots in Messaging Services](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1619/2022imc-chatbot.pdf?sequence=1)
+* [Okland 2023: Detection of Inconsistencies in Privacy Practices of Browser Extensions](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2023/oakland23-bui.pdf)
+* [SIGMETRICS 2023: Characterizing Cryptocurrency-themed Malicious Browser Extensions](https://dl.acm.org/doi/pdf/10.1145/3570603)
+* [IMC 2022: Exploring the Security and Privacy Risks of Chatbots in Messaging Services](https://dl.acm.org/doi/pdf/10.1145/3517745.3561433)

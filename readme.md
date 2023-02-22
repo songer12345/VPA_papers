@@ -11,7 +11,7 @@ This is VPA paper reading list.
 * [CSCW 2023: Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants](https://arxiv.org/pdf/2211.12900.pdf)
 * [Usenix 2023: POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/system/files/sec23summer_19-zhou_lu-prepub.pdf)
 * [Usenix 2023: Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices](https://www.usenix.org/system/files/sec23summer_454-vetrivel-prepub.pdf)
-* [NDSS 2023: CHKPLUG: Checking GDPR Compliance of WordPress Plugins via Cross-language Code Property Graph (Unavailable)]()
+* [Building cross-language corpora for human understanding of privacy policies](https://arxiv.org/pdf/2302.05355.pdf)
 * [Arxiv: A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
 
 
@@ -94,6 +94,7 @@ This is VPA paper reading list.
 * [WWW 2021: A Longitudinal Study of Removed Apps in iOS App Store](https://dl.acm.org/doi/pdf/10.1145/3442381.3449990)
 * [ICSE 2021: CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9402070)
 * [WWW 2020: Mobile App Squatting](https://dl.acm.org/doi/pdf/10.1145/3366423.3380243)
+* [Okland 2019: Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835301)
 * [WWW 2019: Understanding the Evolution of Mobile App Ecosystems: A Longitudinal Measurement Study of Google Play](https://dl.acm.org/doi/pdf/10.1145/3308558.3313611)
 * [MSR 2018: Why are Android Apps Removed From Google Play? A Large-scale Empirical Study](https://dl.acm.org/doi/pdf/10.1145/3196398.3196412)
 * [IMC 2018: Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets](https://dl.acm.org/doi/pdf/10.1145/3278532.3278558)

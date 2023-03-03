@@ -5,6 +5,7 @@ This is VPA paper reading list.
 ## VPA
 
 ### New
+* [CHI_2023: A Mixed-Methods Approach to Understanding User Trust after Voice Assistant Failures](https://arxiv.org/pdf/2303.00164.pdf)
 * [CHI_2023: Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants](https://arxiv.org/pdf/2301.08091.pdf)
 * [Arxiv: Addressing the Selection Bias in Voice Assistance: Training Voice Assistance Model in Python with Equal Data Selection](https://arxiv.org/pdf/2301.00646.pdf)
 * [Arxiv: “Tell me, how do you know it’s me?” Expectations of security and personalization measures for smart speaker applications](https://arxiv.org/pdf/2212.01905.pdf)
@@ -89,6 +90,7 @@ This is VPA paper reading list.
 
 
 ## Android-relevant
+* [2023: Do as You Say: Consistency Detection of Data Practice in Program Code and Privacy Policy in Mini-App](https://arxiv.org/pdf/2302.13860.pdf)
 * [TSE 2022: Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9782551)
 * [WWW 2021: Demystifying Illegal Mobile Gambling Apps](https://dl.acm.org/doi/pdf/10.1145/3442381.3449932)
 * [WWW 2021: A Longitudinal Study of Removed Apps in iOS App Store](https://dl.acm.org/doi/pdf/10.1145/3442381.3449990)

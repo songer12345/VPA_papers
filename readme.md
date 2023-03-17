@@ -5,15 +5,16 @@ This is VPA paper reading list.
 ## VPA
 
 ### New
+* [SefeThings_2023: Towards Usable Parental Control for Voice Assistants](https://arxiv.org/pdf/2303.04957.pdf)
+* [Arxiv_2023: Hey Kimya, Is My Smart Speaker Spying on Me? Taking Control of Sensor Privacy Through Isolation and Amnesia](https://netsec.ethz.ch/publications/papers/devaere2023kimya.pdf)
 * [CHI_2023: A Mixed-Methods Approach to Understanding User Trust after Voice Assistant Failures](https://arxiv.org/pdf/2303.00164.pdf)
 * [CHI_2023: Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants](https://arxiv.org/pdf/2301.08091.pdf)
-* [Arxiv: Addressing the Selection Bias in Voice Assistance: Training Voice Assistance Model in Python with Equal Data Selection](https://arxiv.org/pdf/2301.00646.pdf)
-* [Arxiv: “Tell me, how do you know it’s me?” Expectations of security and personalization measures for smart speaker applications](https://arxiv.org/pdf/2212.01905.pdf)
+* [Arxiv 2023: Addressing the Selection Bias in Voice Assistance: Training Voice Assistance Model in Python with Equal Data Selection](https://arxiv.org/pdf/2301.00646.pdf)
+* [Arxiv 2023: “Tell me, how do you know it’s me?” Expectations of security and personalization measures for smart speaker applications](https://arxiv.org/pdf/2212.01905.pdf)
 * [CSCW 2023: Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants](https://arxiv.org/pdf/2211.12900.pdf)
-* [Usenix 2023: POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/system/files/sec23summer_19-zhou_lu-prepub.pdf)
 * [Usenix 2023: Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices](https://www.usenix.org/system/files/sec23summer_454-vetrivel-prepub.pdf)
 * [Building cross-language corpora for human understanding of privacy policies](https://arxiv.org/pdf/2302.05355.pdf)
-* [Arxiv: A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
+* [Arxiv 2023: A Systematic Review of Ethical Concerns with Voice Assistants](https://arxiv.org/pdf/2211.04193.pdf)
 
 
 
@@ -85,6 +86,8 @@ This is VPA paper reading list.
 * [Share First, Ask Later (or Never?) Studying Violations of GDPR’s Explicit Consent in Android Apps](https://www.usenix.org/system/files/sec21-nguyen.pdf)
 
 ### privacy policy
+* [WWW 2023: Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children’s Apps](https://arxiv.org/pdf/2303.09008.pdf)
+* [Usenix 2023: Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lalaine_sec23.pdf)
 * [Usenix 2022: Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage](https://www.usenix.org/system/files/sec22-manandhar.pdf)
 * [Usenix 2022: OVRSEEN: Auditing Network Traffic and Privacy Policies in Oculus VR](https://www.usenix.org/system/files/sec22-trimananda.pdf)
 
